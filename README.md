@@ -8,6 +8,7 @@
 python3 -m venv venv
 ```
 
+### 2. Iniciar Entorno Virtual:
 Linux/Mac:
 ```
 source venv/bin/activate
@@ -18,7 +19,7 @@ Windows:
 venv\Scripts\activate
 ```
 
-### 2. Instalar dependencias:
+### 3. Instalar dependencias:
 
 ```
 pip install -r requirements.txt
