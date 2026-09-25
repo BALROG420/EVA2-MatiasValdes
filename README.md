@@ -28,5 +28,5 @@ pip install -r requirements.txt
 ## Nuevas Funciones
 Se agrego:   \
         -Login y Roles de usuario.\
-le envío las credenciales para el panel administrador adjuntas en el txt de la entrega junto al link del repositorio.\
-Saludos.\
+Le envío las credenciales para el panel administrador adjuntas en el txt de la entrega junto al link del repositorio.\
+Saludos.
